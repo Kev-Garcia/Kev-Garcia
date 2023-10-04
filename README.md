@@ -1,6 +1,6 @@
 # Hello, I'm Kevin Garcia
 
-Cybersecurity enthusiast by day, DayZ server Owner by night. Welcome to my corner of the digital world!
+Welcome to my corner of the digital world!
 
 🔒 **Cybersecurity Enthusiast** - By day, I'm passionately dedicated to the world of cybersecurity. My fascination with protecting digital landscapes and thwarting threats keeps me engaged in the ever-evolving realm of online security.
 
