@@ -14,7 +14,7 @@ Welcome to my corner of the digital world!
 
 Thanks for stopping by, and let's journey together through the exciting world of technology and gaming!
 
-[LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/kevin-garcia-89273a267/)) | [Twitter]([https://twitter.com/yourhandle](https://twitter.com/KevinKGGarcia)) | [Survivor's Sanctuary Discord](https://discord.gg/Xys3VptEPg)
+[LinkedIn]((https://www.linkedin.com/in/kevin-garcia-89273a267/)) | [Twitter](https://twitter.com/KevinKGGarcia)) | [Survivor's Sanctuary Discord](https://discord.gg/Xys3VptEPg)
 
 <!---
 Kev-Garcia/Kev-Garcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
