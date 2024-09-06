@@ -2,8 +2,6 @@
 
 Welcome to my corner of the digital world!
 
-🔒 **Cybersecurity Enthusiast** - By day, I'm passionately dedicated to the world of cybersecurity. My fascination with protecting digital landscapes and thwarting threats keeps me engaged in the ever-evolving realm of online security.
-
 🌄 **Survivor's Sanctuary Server/Discord** - At night, I wear a different hat as the proud owner of the Survivor's Sanctuary DayZ server and Discord community. Here, over 70+ hooligans come together for adventures, camaraderie, and unforgettable moments in the post-apocalyptic world of DayZ.
 
 🌐 **Breaking Into the Tech Field** - I'm on a mission to break into the tech industry, with a specific focus on cybersecurity. I'm constantly learning and honing my skills to become a valuable asset in the world of digital defense.
