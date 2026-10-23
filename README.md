@@ -42,6 +42,7 @@ Large enterprises have security operations centers and expensive intelligence pl
 
 - **PSP**: Physical Security Professional, ASIS International
 - **Lenel S2 NetBox Fundamentals**
+- **EMR**: Emergency Medical Responder
 - **BLS**: Basic Life Support
 
 ## 🔭 What I'm interested in
