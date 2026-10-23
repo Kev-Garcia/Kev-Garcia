@@ -56,4 +56,4 @@ I run **Survivor's Sanctuary**, a DayZ server and Discord community of 70+ playe
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/kevin-garcia-89273a267/) · [cyberdyneintelligence.app](https://cyberdyneintelligence.app) · [Survivor's Sanctuary Discord](https://discord.gg/Xys3VptEPg)
+📫 [LinkedIn](https://www.linkedin.com/in/cyberdyne-intelligence-solutions/?isSelfProfile=true) · [cyberdyneintelligence.app](https://cyberdyneintelligence.app) · [Survivor's Sanctuary Discord](https://discord.gg/Xys3VptEPg)
